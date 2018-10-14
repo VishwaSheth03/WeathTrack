@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     Typeface weatherFont;
     String city = "Dhaka, BD";
     /* Please Put your API KEY here */
-    String OPEN_WEATHER_MAP_API = "fc7ce9bf8f61fc6a02dcb474a614495a";
+    String OPEN_WEATHER_MAP_API = "cbfdb21fa1793c10b14b6b6d00fbef03";
     /* Please Put your API KEY here */
 
 
