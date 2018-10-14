@@ -26,16 +26,11 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
-    // Project Created by Ferdousur Rahman Shajib
-    // www.androstock.com
-
     TextView selectCity, cityField, detailsField, currentTemperatureField, humidity_field, pressure_field, weatherIcon, updatedField;
     ProgressBar loader;
     Typeface weatherFont;
-    String city = "Dhaka, BD";
-    /* Please Put your API KEY here */
+    String city = "New York City, NY";
     String OPEN_WEATHER_MAP_API = "cbfdb21fa1793c10b14b6b6d00fbef03";
-    /* Please Put your API KEY here */
 
 
     @Override
